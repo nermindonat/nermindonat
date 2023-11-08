@@ -23,14 +23,33 @@ Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems 
 <br />
 <br />
 <br />
+<h2 align="center">⚡ Github Stats ⚡</h2>
+<br />
 
+<div align="center">
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nermindonat&show_icons=true&theme=gradient)
 
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermindonat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+
+
+<div align="center">
+  <a
+    href="https://github.com/denvercoder1/github-readme-streak-stats"
+    title="Go to Source"
+  >
+    <img
+      align="center"
+      width="396"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=nermindonat&theme=react&border=61dafb&hide_border=true"
+      alt=""
+    />
+  </a>  
+</div>
+
+<br /><br />    
 
