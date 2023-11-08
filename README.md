@@ -7,7 +7,7 @@ Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems 
 
 Connect with me:
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-donat/)
+<a href="https://www.linkedin.com/in/nermin-donat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nermindonat" height="30" width="40" /></a>
 
 Languages and Tools:
 
