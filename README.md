@@ -24,6 +24,11 @@ Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems 
 
 
 
+
+
+
+
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nermindonat&show_icons=true&theme=gradient)
 
 
