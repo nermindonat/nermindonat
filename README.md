@@ -26,7 +26,7 @@ Languages and Tools:
 <a href="https://git-scm.com/"> <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> </a>
 <a href="https://www.youtube.com/@GitHub"> <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" /> </a>
 </p>
-
+<div style="clear:both;"></div>
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nermindonat&show_icons=true&theme=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermindonat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
