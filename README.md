@@ -10,6 +10,7 @@ Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems 
 <a href="https://www.linkedin.com/in/nermin-donat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nermindonat" height="30" width="40" /></a>
 
 ### Languages and Tools:
+
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> </a>
 <a href="https://www.w3schools.com/sass/" target="_blank"> <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> </a>
@@ -20,7 +21,15 @@ Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems 
 </p>
 
 
+
+
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nermindonat&show_icons=true&theme=gradient)
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermindonat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
