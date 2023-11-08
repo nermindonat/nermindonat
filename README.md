@@ -30,7 +30,5 @@ Languages and Tools:
 <br />
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nermindonat&show_icons=true&theme=gradient)
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nermindonat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
