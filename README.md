@@ -35,8 +35,6 @@ Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems 
 
 </div>
 
-
-
 <div align="center">
   <a
     href="https://github.com/denvercoder1/github-readme-streak-stats"
