@@ -6,6 +6,7 @@ Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems 
 - 🌱 I’m currently learning Node.js.
 
 Connect with me:
+
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-donat/)
 
 Languages and Tools:
