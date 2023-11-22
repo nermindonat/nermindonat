@@ -2,7 +2,7 @@
   Click on the image below to visit my personal website.
 </p>
 <p align="center">
-  <a href="https://nermindonat.vercel.app/">
+  <a href="https://nermindonat.vercel.app/" target="_blank">
     <img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" alt="JS" width="140">
   </a>
 </p>
