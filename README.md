@@ -1,6 +1,7 @@
 <p align="center">
-  Click on the image below to visit my personal website.
+  <strong style="color: black;">Click on the image below to visit my personal website.</strong>
 </p>
+
 <p align="center">
   <a href="https://nermindonat.vercel.app/" target="_blank">
     <img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" alt="JS" width="140">
