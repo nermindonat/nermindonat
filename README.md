@@ -1,9 +1,23 @@
+<p align="center">
+  Click on the image below to visit my personal website.
+</p>
+<p align="center">
+  <a href="https://nermindonat.vercel.app/">
+    <img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" alt="JS" width="140">
+  </a>
+</p>
+
+
 ### Hi there 👋
 
 
 Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems Engineering. I am progressing step by step on the career path as a Web Developer. There is no stopping until I reach the best level.
 - 🔭 I’m currently working on Frontend Web Developer.
 - 🌱 I’m currently learning Node.js.
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=nermindonat)
+<br/><br/>
+
 
 ### Connect with me:
 
