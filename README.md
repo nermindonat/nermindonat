@@ -14,7 +14,7 @@
 
 Welcome to my GitHub! I am Nermin Donat, I am a graduate of Information Systems Engineering. I am progressing step by step on the career path as a Web Developer. There is no stopping until I reach the best level.
 - 🔭 I’m currently working on Frontend Web Developer.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning Nest.js and Nuxt.js.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nermindonat)
 <br/><br/>
